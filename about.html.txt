@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Fake CS Department</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="about-page">
+    <header>
+        <!-- Same as index.html -->
+    </header>
+    <main>
+        <h2>About Computer Science</h2>
+        <p>Computer Science is the study of computation, information, and automation. Our department is at the forefront of technological innovation.</p>
+        <button onclick="location.href='mailto:info@fakecs.edu'">Email Us</button>
+    </main>
+    <footer>
+        <!-- Same as index.html -->
+    </footer>
+</body>
+</html>

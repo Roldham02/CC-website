@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculty/Staff - Fake CS Department</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Same as index.html -->
+    </header>
+    <main>
+        <h2>Faculty and Staff</h2>
+        <table>
+            <tr>
+                <td><img src="faculty1.jpg" alt="Dr. Jane Doe"></td>
+                <td>
+                    <h3>Dr. Jane Doe</h3>
+                    <p>Professor of Artificial Intelligence</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="faculty2.jpg" alt="Dr. John Smith"></td>
+                <td>
+                    <h3>Dr. John Smith</h3>
+                    <p>Associate Professor of Cybersecurity</p>
+                </td>
+            </tr>
+            <!-- Add more faculty members -->
+        </table>
+    </main>
+    <footer>
+        <!-- Same as index.html -->
+    </footer>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses - Fake CS Department</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Same as index.html -->
+    </header>
+    <main>
+        <h2>CS Courses</h2>
+        <ul>
+            <li>CS101: Introduction to Programming</li>
+            <li>CS201: Data Structures and Algorithms</li>
+            <li>CS301: Database Systems</li>
+            <li>CS401: Artificial Intelligence</li>
+            <li>CS501: Machine Learning</li>
+        </ul>
+    </main>
+    <footer>
+        <!-- Same as index.html -->
+    </footer>
+</body>
+</html>
